@@ -75,9 +75,3 @@ npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-
 ## 致谢
 
 感谢发布时未移除的 **Source Map**，让这份精致的工程结构得以重现。
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ponponon/claude_code_src&type=Date)](https://star-history.com/#ponponon/claude_code_src&Date)
